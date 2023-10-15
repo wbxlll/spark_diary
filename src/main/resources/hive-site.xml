@@ -27,7 +27,7 @@
     <!-- jdbc连接的password -->
     <property>
         <name>javax.jdo.option.ConnectionPassword</name>
-        <value>*oam@glxx#</value>
+        <value></value>
     </property>
 
     <!-- Hive默认在HDFS的工作目录 -->
